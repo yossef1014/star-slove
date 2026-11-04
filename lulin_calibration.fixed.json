@@ -1,0 +1,17 @@
+{
+  "instrument": "Alcor System ALPHEA 6CW All Sky Camera; ZWO ASI178MC + 1.55mm fisheye lens",
+  "observer": "Lulin Observatory",
+  "site": "Lulin Observatory",
+  "latitude_deg": 23.4667,
+  "longitude_deg": 120.8667,
+  "height_m": 2862.0,
+  "projection": "equidistant",
+  "cx": 720.5878597826363,
+  "cy": 496.61772540118886,
+  "horizon_radius_px": 457.6000000000001,
+  "rotation_deg": 2.8137308390767513,
+  "notes": "cx/cy/horizon_radius_px/rotation_deg jointly fit from 1293 marks across 171 image(s) in lulin_star_marks_final2.csv.",
+  "reference_width_px": 1548.0,
+  "reference_height_px": 1040.0,
+  "east_left": true
+}
